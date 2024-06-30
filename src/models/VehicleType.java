@@ -1,2 +1,7 @@
-package models;public enum VehicleType {
+package models;
+
+public enum VehicleType {
+    TwoWheeler,
+    ThreeWheeler,
+    FourWheeler,
 }

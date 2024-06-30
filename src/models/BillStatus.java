@@ -1,2 +1,7 @@
-package models;public enum BillStatus {
+package models;
+
+public enum BillStatus {
+    PartialPaid,
+    Completed,
+    NotPaid
 }

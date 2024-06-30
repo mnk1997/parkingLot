@@ -1,2 +1,7 @@
-package models;public enum PaymentStatus {
+package models;
+
+public enum PaymentStatus {
+    InProgress,
+    Success,
+    Failed
 }

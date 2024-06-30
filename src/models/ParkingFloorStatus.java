@@ -1,2 +1,9 @@
-package models;public enum ParkingFloorStatus {
+package models;
+
+public enum ParkingFloorStatus {
+
+    Filled,
+    Empty,
+    Open,
+    Closed
 }

@@ -1,2 +1,4 @@
-package dto;public class RequestDto {
+package dto;
+
+public class RequestDto {
 }
